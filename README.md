@@ -1,4 +1,6 @@
-# [Start Bootstrap - One Page Wonder](https://startbootstrap.com/template-overviews/one-page-wonder/)
+# [Simple Website](https://startbootstrap.com/template-overviews/one-page-wonder/)
+
+**A simple Bootstrap HTML website code to be used to demonstrate CI/CD** 
 
 [One Page Wonder](http://startbootstrap.com/template-overviews/one-page-wonder/) is a basic one page template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
